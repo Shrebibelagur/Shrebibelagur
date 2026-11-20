@@ -21,6 +21,7 @@ Never writes to Entra and never contacts an MCP server
 Pseudonymised identifiers so shared reports don't leak tenant IDs
 bash
 pip install agent-permission-linter
+
 🧪 Projects
 Project	What it does	Tech
 agent-permission-linter	Linter for AI agent permissions in Entra ID	Python, MCP, SARIF
