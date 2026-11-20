@@ -62,6 +62,7 @@ pip install agent-permission-linter
 |---|---|---|
 | Non-Human Identity Fundamentals | Cyera Identity (Oasis) | ✅ 2026 |
 | SailPoint IdentityIQ Introduction | SailPoint | ✅ 2026 |
+| SailPoint Identity Security Leader | SailPoint | ✅ Completed |
 | Saviynt Identity Security (AI age) | Saviynt | ✅ Completed |
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft | ✅ Completed |
 | Claude 101 & Claude Code | Anthropic | ✅ 2026 |
