@@ -7,12 +7,10 @@
 ![Microsoft Entra ID](https://img.shields.io/badge/MICROSOFT%20ENTRA%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/ACTIVE%20DIRECTORY-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Okta](https://img.shields.io/badge/OKTA-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![SailPoint](https://img.shields.io/badge/SAILPOINT-0033A1?style=for-the-badge&logoColor=white)
 ![Saviynt](https://img.shields.io/badge/SAVIYNT-1E3A8A?style=for-the-badge&logoColor=white)
 ![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
