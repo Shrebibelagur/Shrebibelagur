@@ -2,7 +2,7 @@
 
 # Hi, I'm Shreyas Amaranath 👋
 
-### IAM Engineer · Identity Governance · Non-Human Identity & AI Agent Access
+### IAM Specialist · Identity Governance · Non-Human Identity & AI Agent Access
 
 ![Microsoft Entra ID](https://img.shields.io/badge/MICROSOFT%20ENTRA%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/ACTIVE%20DIRECTORY-0078D4?style=for-the-badge&logo=windows&logoColor=white)
