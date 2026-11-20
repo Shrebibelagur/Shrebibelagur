@@ -28,6 +28,7 @@ iam-governance-agent	Propose-and-approve AI agent for Entra governance. Detects 
 iam-jml-lab	Joiner-Mover-Leaver automation with ordered offboarding and audit trail	PowerShell 7, Graph API
 iam-sso-lab	Entra ID as IdP for SAML 2.0, OIDC and OAuth 2.0 + PKCE, with protocol comparison	SAML, OIDC, OAuth 2.0
 iam-graph-lab	Six-script governance suite: guest detection, secret expiry alerts, stale accounts, audit log export	PowerShell, Graph API
+
 🎖️ Certifications
 Certification	Issuer	Status
 Non-Human Identity Fundamentals	Cyera Identity (Oasis)	✅ 2026
@@ -35,6 +36,7 @@ SailPoint IdentityIQ Introduction	SailPoint	✅ 2026
 Saviynt Identity Security (AI age)	Saviynt	✅ Completed
 Microsoft Azure Fundamentals (AZ-900)	Microsoft	✅ Completed
 Claude 101 & Claude Code	Anthropic	✅ 2026
+
 🛠️ Tech Stack
 
 Identity & Governance: Microsoft Entra ID · Okta/Auth0 · Saviynt · SailPoint · CyberArk · Active Directory · PIM · Conditional Access · Access Reviews
@@ -54,11 +56,7 @@ IAM Analyst, CSS Corp, 2020 to 2022: JML lifecycle, RBAC, identity incident resp
 
 📫 Connect With Me
 
-LinkedIn
-
-<div align="center">
-
-Show Image
+LinkedIn - https://www.linkedin.com/in/shreyas-amaranath
 
 
 <!--
