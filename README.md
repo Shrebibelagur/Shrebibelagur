@@ -53,6 +53,7 @@ pip install agent-permission-linter
 | [iam-jml-lab](https://github.com/Shrebibelagur/iam-jml-lab) | Joiner-Mover-Leaver automation with ordered offboarding and audit trail | PowerShell 7, Graph API |
 | [iam-sso-lab](https://github.com/Shrebibelagur/iam-sso-lab) | Entra ID as IdP for SAML 2.0, OIDC and OAuth 2.0 + PKCE, with protocol comparison | SAML, OIDC, OAuth 2.0 |
 | [iam-graph-lab](https://github.com/Shrebibelagur/iam-graph-lab) | Six-script governance suite: guest detection, secret expiry alerts, stale accounts, audit log export | PowerShell, Graph API |
+| [iam-ad-lab](https://github.com/Shrebibelagur/iam-ad-lab) | Active Directory home lab on Windows Server 2025 in VirtualBox: domain controller, OU structure, PowerShell user management, GPO, Entra ID hybrid sync | Active Directory, PowerShell, Entra ID |
 
 ---
 
